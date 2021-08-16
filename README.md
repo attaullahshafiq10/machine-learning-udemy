@@ -26,7 +26,7 @@ This course will be useful for graduates, postgraduates, and research students w
 
 Moreover, the course is packed with practical exercises that are based on real-life examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.
 
-And as a bonus, this course includes both Python, R and MATLAB code templates which you can download and use on your own projects.
+And as a bonus, this course includes Python, R and MATLAB code templates which you can download and use on your own projects.
 
 Kind Regards
 
